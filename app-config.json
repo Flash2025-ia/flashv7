@@ -1,0 +1,13 @@
+{
+  "appId": "com.flash.app",
+  "appName": "Flash App",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "description": "Aplicación para solicitar servicios locales",
+  "permissions": [
+    "android.permission.INTERNET",
+    "android.permission.ACCESS_COARSE_LOCATION",
+    "android.permission.ACCESS_FINE_LOCATION"
+  ],
+  "whatsappNumber": "573204006436"
+}
